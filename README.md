@@ -23,4 +23,3 @@ Challenge: [Exploring the National Skills Commission’s Australian Skills Class
 ## Licenses
 
  * MIT License
-
